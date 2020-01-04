@@ -42,7 +42,8 @@
     "ts-jest": "^24.2.0",
     "tslint": "^5.20.1",
     "tslint-config-prettier": "^1.18.0",
-    "typescript": "^3.7.4"
+    "typescript": "^3.7.4",
+    "nodemon": "^2.0.2"
   },
   "files": [
     "lib/**/*"
@@ -57,8 +58,5 @@
       "npm run lint",
       "git add"
     ]
-  },
-  "dependencies": {
-    "nodemon": "^2.0.2"
   }
 }
